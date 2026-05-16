@@ -1,0 +1,33 @@
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_style = space
+indent_size = 2
+tab_width = 2
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.{js,jsx,ts,tsx,json,css,scss,less,html,md,yml,yaml}]
+indent_style = space
+indent_size = 2
+tab_width = 2
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.{sh,py}]
+indent_style = space
+indent_size = 4
+
+[*.{png,jpg,jpeg,gif,ico,zip,tar,binary}]
+trim_trailing_whitespace = false
+
+[Makefile]
+indent_style = tab
+
+; Notes:
+; - Sensible JS baseline: 2 spaces, LF, UTF-8.
+; - Adjust if you prefer tabs or different settings.
+
