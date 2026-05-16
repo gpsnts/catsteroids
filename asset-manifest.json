@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f6ca6fd.css",
-    "main.js": "/static/js/main.43e544c8.js",
-    "static/js/453.1439ce4b.chunk.js": "/static/js/453.1439ce4b.chunk.js",
-    "index.html": "/index.html",
-    "main.2f6ca6fd.css.map": "/static/css/main.2f6ca6fd.css.map",
-    "main.43e544c8.js.map": "/static/js/main.43e544c8.js.map",
-    "453.1439ce4b.chunk.js.map": "/static/js/453.1439ce4b.chunk.js.map"
+    "main.css": "/catsteroids/static/css/main.2f6ca6fd.css",
+    "main.js": "/catsteroids/static/js/main.e16dbe12.js",
+    "static/js/453.1439ce4b.chunk.js": "/catsteroids/static/js/453.1439ce4b.chunk.js",
+    "index.html": "/catsteroids/index.html",
+    "main.2f6ca6fd.css.map": "/catsteroids/static/css/main.2f6ca6fd.css.map",
+    "main.e16dbe12.js.map": "/catsteroids/static/js/main.e16dbe12.js.map",
+    "453.1439ce4b.chunk.js.map": "/catsteroids/static/js/453.1439ce4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f6ca6fd.css",
-    "static/js/main.43e544c8.js"
+    "static/js/main.e16dbe12.js"
   ]
 }
